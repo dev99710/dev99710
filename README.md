@@ -9,9 +9,9 @@
 
 ## 👋 About Me
 
-I am a Computer Engineering graduate who enjoys **building practical software projects** and strengthening core computer science fundamentals. I focus on writing **clean, readable code** and improving projects iteratively rather than rushing through tutorials.
+I am a **Robotics and Artificial Intelligence graduate** who enjoys **building practical software projects** and strengthening core computer science fundamentals. I focus on writing **clean, readable code** and improving projects iteratively rather than rushing through tutorials.
 
-- 🎓 Computer Engineering graduate
+- 🎓 Graduate in **Robotics and Artificial Intelligence**
 - 💻 Working primarily with **React, JavaScript, and Python**
 - 📊 Exploring **Data Analysis and Machine Learning basics**
 - 🧠 Strong believer in fundamentals, clarity, and consistency
