@@ -71,26 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dev99710&show_icons=true&count_private=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dev99710"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - Improving **project documentation & testing**
