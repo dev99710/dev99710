@@ -71,15 +71,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev99710&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev99710&show_icons=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev99710&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=dev99710" />
 </p>
+
 
 ---
 
