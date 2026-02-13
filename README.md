@@ -95,10 +95,10 @@
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/dev-chavda-9362a622a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:chavdadev206@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
