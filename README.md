@@ -62,14 +62,15 @@ A frontend application built to practice component-based architecture.
 
 ---
 
-### 🔹 Weather App
-A web application that displays real-time weather data using public APIs.
+### 🔹 KharidiKaro
+A frontend-focused e-commerce style web application designed to simulate an online shopping experience.
 
-- API integration and asynchronous handling
-- Graceful error handling
-- Refactored for better readability and structure
+- Product listing interface with clean UI
+- Component-based architecture using React
+- Focus on usability and frontend fundamentals
+- Live deployed application
 
-🔗 Repository: https://github.com/dev99710/WeatherApp
+🔗 Repository: https://github.com/dev99710/KharidiKaro
 
 ---
 
